@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DexterPro-React-Dashboard/static/css/main.90c9e8d9.css",
+    "main.js": "/DexterPro-React-Dashboard/static/js/main.3824fa3e.js",
+    "index.html": "/DexterPro-React-Dashboard/index.html",
+    "main.90c9e8d9.css.map": "/DexterPro-React-Dashboard/static/css/main.90c9e8d9.css.map",
+    "main.3824fa3e.js.map": "/DexterPro-React-Dashboard/static/js/main.3824fa3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90c9e8d9.css",
+    "static/js/main.3824fa3e.js"
+  ]
+}
